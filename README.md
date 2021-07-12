@@ -14,13 +14,13 @@ Attribute breakdown - 8 quantitative inputs, 1 quantitative output
 
 ## Attribute information
 ##### Inputs
-Cement
-Blast Furnace Slag
-Fly Ash
-Water
-Superplasticizer
-Coarse Aggregate
-Fine Aggregate
+- Cement
+- Blast Furnace Slag
+- Fly Ash
+- Water
+- Superplasticizer
+- Coarse Aggregate
+- Fine Aggregate
 All above features measured in kg/$m^3$
 
 Age (in days)
