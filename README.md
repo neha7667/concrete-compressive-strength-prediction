@@ -21,7 +21,7 @@ Attribute breakdown - 8 quantitative inputs, 1 quantitative output
 - Superplasticizer
 - Coarse Aggregate
 - Fine Aggregate
-All above features measured in kg/$m^3$
+All above features measured in kg/m^3
 
 Age (in days)
 
