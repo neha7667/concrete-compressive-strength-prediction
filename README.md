@@ -28,7 +28,7 @@ Age (in days)
 ##### Output
 Concrete Compressive Strength (Mpa)
 
-3. Modelling and Evaluation
+## 3. Modelling and Evaluation
 Algorithms used
 
 - Linear regression
